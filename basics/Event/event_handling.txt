@@ -1,0 +1,10 @@
+Event handling: Event responds to user or browser's actions like (click, typing, loading) using event listeners.
+
+Note: addEventListener is a method used to attach an event handler to an element, so JS can listen and respond to event like click, input, etc.
+
+Events:
+Mouse (click, mousehover)
+keyboard (keydown)
+form (submit, input)
+window(load)
+event propagation(bubbling)

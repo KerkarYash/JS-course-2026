@@ -1,0 +1,19 @@
+Arrays & Objects: Both are fundamental data structure used to store collections of data. 
+Array:
+i) Dynamic size
+ii) Heterogenous  (different values)
+iii) It has some common methods.
+
+Array methods:
+i) for each:
+- it returns value as undefined
+- its purpose is just loop and print
+
+ii) map:
+- it returns new Array
+- its purpose is to transform (perform changes) the data.
+
+iii) filter:
+- it returns new array.
+its purpose is to select specific items.
+

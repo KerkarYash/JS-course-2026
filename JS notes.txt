@@ -1,0 +1,17 @@
+Javascript is a high level, interpreted programming language Developed by Brendan Eich while he was working at Netscape communication corporation in 1995.
+
+It is used to add interactivity and dynamic behaviour to web pages.
+
+Javascript uses:
+Frontend Development
+Backend Development
+Mobile And Desktop application 
+Game Development
+
+Javascript can be run in browser inside the console. Because Browser only knows html, css, and js. 
+
+Javascript is a single threaded interpreted language.
+Javascript has two natures: Synchronous and Asynchronous
+
+1) Synchronous: Javascript executes the code line by line, in a serial manner.
+2) Asynchronous: If a particular line or block of code wants to take time to perform some operation, then javascript sends that particular to call stack and execute the next line or block of code, which is not dependent on this code. In simple way it means, Javascript sends the line or code of block to the call stack. And executes the next independent code.

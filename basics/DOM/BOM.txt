@@ -1,0 +1,3 @@
+BOM: it interacts with the browser (window, tabs, history, location, screen) outside the page content.
+
+Note: DOM is used to control the website, BOM is used to control the browser.

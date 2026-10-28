@@ -1,0 +1,53 @@
+I) Introduction
+
+Web application: process of creating web applications that run on the internet. 
+why: 
+for business
+to share information globally, etc.
+
+V8 Engine:
+It is JS engine.
+Developed by Google.
+Convert JS code into fast machine code.
+runs our website smoothly and improve performance.
+
+HTML: the content of the web page. (provides structure)
+CSS: look of the page (color, style). (provides style)
+JS: describes the behaviour of the page. It easily control and alter HTML & CSS. (provides functionality).
+
+II) Variables, Data Types, and Operators:
+Variables: var, let, and const
+Data types: Number, String, Boolean, undefined, null, symbol, object.
+Operators: Artithmetic, Comparison (relational operator), Logical, Assignment, Ternary
+
+III) Control structure:
+Conditional statments
+Loops
+Jump statement
+
+IV) Function 
+Defining Function
+Function express and arrow function.
+
+V) Arrays and Objects
+Array and Array methods
+Creating and manipulating objects
+
+VI) Error handling
+
+VII) Scope, closure, and hoisting
+
+VIII) DOM and BOM
+DOM manipulation
+Event handling
+BOM
+Browser storage (LocalStorage, Session Storage and cookies)
+
+IX) Asynchronous JS (Advanced)
+Callbacks, promises, and async await
+event Loops
+
+X) Modules (import/export)
+
+XI) APIs and AJAX
+fetch API, json parsing and handling

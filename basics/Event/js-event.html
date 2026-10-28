@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>JS - Event Handling</title>
+</head>
+<body>
+  <button id="btn">Alert button</button>
+
+  <script>
+    const button = document.getElementById("btn");
+    button.addEventListener("click", function(){
+      alert("You clicked the button");
+    })
+
+    button.addEventListener("mouseenter", function(){
+      button.style.backgroundColor="green";
+      button.style.color="white";
+      document.body.style.backgroundColor="black";
+    })
+
+    button.addEventListener("mouseleave", function(){
+      button.style.backgroundColor="";
+      button.style.color="";
+      document.body.style.backgroundColor="";
+    })
+
+    
+  </script>
+</body>
+</html>

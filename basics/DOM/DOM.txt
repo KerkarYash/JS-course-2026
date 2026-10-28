@@ -1,0 +1,38 @@
+Window has 2 properties in it: DOM and BOM
+
+window object is a default object of browser. If we write it or not doesn't matter.
+Ex:
+window.alert()  //here window is by default object of browser.
+
+it means we can write just alert, no need to use window.
+alert()
+
+DOM: Dom stands for document object model. It allows us to access, modify and control the HTML elements. 
+
+Tree structure of HTML
+               HTML
+        head          body
+  title    meta      p  h1 div
+
+
+I) selecting elements: They are used to select elements from the DOM.
+getElementById()
+getElementByClassName()
+getElementByTagName()
+querySelector()
+querySelectorAll()
+
+II) Modifying elements: used to modify content & attributes of elements.
+innerHTML
+textContent
+setAttribute()
+classList
+innerText
+
+III) To create & append element:
+createElement()
+appendChild()
+
+IV) Remove Element:
+remove 
+removeChild()
